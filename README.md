@@ -1,6 +1,8 @@
 👋 Olá! Eu sou o Pablo
 Sou um desenvolvedor Front-End apaixonado por criar experiências de usuário incríveis e aplicações web visualmente deslumbrantes. Com um profundo amor por tecnologia e aprendizado contínuo, busco estar sempre à frente das últimas tendências e avanços no desenvolvimento web.
+
 🚀 Sobre Mim
+
 💻 Desenvolvedor Front-End: Especializado em HTML, CSS, JavaScript e frameworks modernos como React e Vue.js.
 🎬 Entusiasta de Entretenimento: Ávido espectador de séries e filmes, sempre em busca de novas recomendações e inspirações.
 🌐 Amante da Tecnologia: Entusiasta de tecnologias de ponta e soluções inovadoras.
